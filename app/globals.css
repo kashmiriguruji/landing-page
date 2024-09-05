@@ -1,6 +1,44 @@
-main {
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
   display: flex;
-  height: 100vh;
+  height: 90vh;
   align-items: center;
   justify-content: center;
+  background-color: #e9e9e9;
+}
+
+main section h1 {
+  text-align: center;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+main section .mid {
+  text-align: center;
+  margin-top: 100px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+main section .mid img {
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+main footer {
+  position: fixed;
+  bottom: 20px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+main footer p {
+  font-weight: 800;
 }
