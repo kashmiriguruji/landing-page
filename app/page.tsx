@@ -12,7 +12,7 @@ export default function Home() {
           <p>Mobile: 8700398329 / 9899375987</p>
           <p>Email: pawanjipandita@gmail.com</p>
           <p>
-            Address: 14 C, Pocket - C, Mayus Viahr, Phase II, New Delhi - 110091
+            Address: 14 C, Pocket - C, Mayur Vihar, Phase II, New Delhi - 110091
           </p>
         </div>
       </section>
