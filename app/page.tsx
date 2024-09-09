@@ -12,7 +12,7 @@ export default function Home() {
           <h3>Pt. Pawan Ji Pandita</h3>
           <p>
             Mobile: <a href="tel:8700398329">8700398329</a> /{" "}
-            <a href="tel:9899375987">9899375987</a>
+            <a href="tel:9811735947">9811735947</a>
           </p>
           <p>
             Email:{" "}
