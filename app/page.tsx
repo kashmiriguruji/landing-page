@@ -5,7 +5,7 @@ export default function Home() {
     <main>
       <section>
         <h1>kashmiriguruji.com</h1>
-        <h2 className="subtext">Coming Soon ....</h2>
+        <h2 className="subtext">Website Coming Soon ....</h2>
         <div className="mid">
           <img src="/images.jpg" alt="" />
           <h2>Contact</h2>
