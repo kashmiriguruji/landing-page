@@ -18,11 +18,21 @@ main section h1 {
   text-transform: uppercase;
 }
 
+main section .subtext {
+  text-align: center;
+  text-transform: uppercase;
+  margin: 1rem 0;
+}
+
 main section .mid {
   text-align: center;
   margin-top: 100px;
   padding: 20px;
   border-radius: 10px;
+}
+
+main section .mid p {
+  line-height: 1.7;
 }
 
 main section .mid img {
